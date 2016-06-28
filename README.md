@@ -23,7 +23,7 @@ Latin
 Structure and Hierarchy of Encodings for Latin:
 
 1. **Core** A Basic Latin set for Western Europe
-2. **Plus** For all fonts in the library, a Extended Latin with wide language support (Central and Eastern European languages and Vietnamese)
+2. **Plus** For all fonts in the library, an Extended Latin with wide language support (Central and Eastern European languages and Vietnamese)
 3. **Pro** For casual and headline fonts that need a little more typographic sophistication, an extra 171 glyphs
 4. **Expert** For text and workhorse typefaces that must supply everything typographers need, such as small caps, an additional 300 glyphs
 
@@ -71,7 +71,7 @@ Structure and Hierarchy of Encodings for Cyrillic:
 
 **Supports the following Cyrillic languages**: Balkar, Belarusian (Cyrillic), Bosnian (Cyrillic), Bulgarian, Croatian (Cyrillic), Erzya, Karachay, Kumyk, Macedonian, Moksha, Montenigrin, Nanai, Nogai, Russian, Rusyn, Serbian (Cyrillic), Ukrainian.
 
-### Google Cyrillic Plus [246 total]
+### Google Cyrillic Plus (246 total)
 
 **Supports the following Cyrillic languages**: Abkhaz, Adyghe, Agul, Altay, Avar, Azerbaijani (Cyrillic), Balkar, Bashkir, Belarusian (Cyrillic), Bosnian (Cyrillic), Bulgarian, Buryat, Chechen, Chuvash, Crimean Tatar (Cyrillic), Croatian (Cyrillic), Dargin, Dungan, Erzya, Gagauz (Cyrillic), Ingush, Kabardian, Kalmyk, Karachay, Karakalpak, Kazakh, Khakas (Cyrillic), Khinalugh, Komi, Kumyk, Kurdish (Cyrillic), Kyrgyz (Cyrillic), Lak, Lezgian, Macedonian, Mari (Hill and Meadow), Moksha, Moldovan (Cyrillic), Mongolian (Cyrillic), Montenigrin, Nanai, Nogai, Ossetian, Russian, Rusyn, Rutul, Sakha/Yakut, Serbian (Cyrillic), Tabasaran, Tajik, Talysh (Cyrillic), Tat, Tatar, Turkmen, Tuvan, Udi, Udmurt, Ukrainian, Uyghur (Cyrillic), Uzbek (Cyrillic), Yukaghir (Northern and Southern).
 

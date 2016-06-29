@@ -29,7 +29,10 @@ Structure and Hierarchy of Encodings for Latin:
 
 ### Google Latin Plus (584 glyphs total)
 
-Vietnamese language support
+Western European  
+Central European  
+Vietnamese  
+Currencies: ₡ ₣ ₤ ₦ ₧ ₩ ₫ ₭ ₱ ₲ ₵ ₹ ₺ ₼ ₽
 
 Includes characters from the following unicode ranges: 
 
@@ -45,15 +48,15 @@ Includes characters from the following unicode ranges:
 
 - Math symbols and units of measure ∆, Ω, π, ℓ, ℮, ∞, ∂, ∫, √, ∑, ∏, ◊
 - Latin general use extensions from U+1E08 to U+1EC9
-- Currencies ₡ ₣ ₤ ₦ ₧ ₩ ₫ ₭ ₱ ₲ ₵ ₹ ₺ ₼ ₽ 
+- Superscript and Subscript ⁰¹²³⁴⁵⁶⁷⁸⁹₀₁₂₃₄₅₆₇₈₉
+- Numerators and Denominators
+- Case variants for punctuation
 
 ### Google Latin Expert (+300 for 1055 total)
 
-- Small Caps (.sc)
-- Arrows and ornaments ← ↑ → ↓ ■ ▲ △ ▶ ▷ ▼ ▽ ◀ ◁ ◆
-- Fractions ⅓, ⅔, ⅛, ⅜, ⅝, ⅞
-- Superscript and Subscript ⁰¹²³⁴⁵⁶⁷⁸⁹₀₁₂₃₄₅₆₇₈₉
-
+- Small Capitals (.sc)
+- Arrows and Ornaments ← ↑ → ↓ ■ □ ▲ △ ▶ ▷ ▼ ▽ ◀ ◁ ◆ ◇
+- Additional Unicode Fractions ⅓, ⅔, ⅛, ⅜, ⅝, ⅞
 
 * * * 
 

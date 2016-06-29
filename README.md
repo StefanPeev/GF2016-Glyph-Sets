@@ -100,4 +100,4 @@ Includes additional characters and features:
 
 Dave Crossland, Frank Grießhammer, Georg Seifert, Gunnar Vilhjálmsson, Jacques Le Bailly, Kalapi Gajjar, Nhung Nguyen, Pablo Impallari (Impallari Encoding), Thomas Jockin, Thomas Phinney (Adobe Cyrillic lists), Underware (Latin Plus Encoding)
 
-Encoding created by Alexei Vanyashin 2016-07-27
+Encoding created by Alexei Vanyashin 2016-06-27
